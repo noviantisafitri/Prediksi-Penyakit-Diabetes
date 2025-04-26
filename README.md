@@ -2,12 +2,13 @@
 
 ## Domain Proyek
 
-Diabetes adalah salah satu penyakit kronis yang paling banyak diderita secara global dan dapat menimbulkan komplikasi serius seperti gagal ginjal, kebutaan, dan penyakit jantung. Menurut [World Health Organization (WHO)](https://www.who.int/news-room/fact-sheets/detail/diabetes), jumlah penderita diabetes meningkat secara signifikan setiap tahunnya dan diperkirakan menjadi penyebab kematian ke-7 di dunia pada tahun 2030. Selain itu, laporan dari [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/diabetes/library/features/truth-about-prediabetes.html) menyebutkan bahwa 1 dari 3 orang dewasa di Amerika Serikat mengalami prediabetes, dan sebagian besar tidak menyadarinya. Dalam konteks ini, deteksi dini menjadi sangat krusial. Dengan memanfaatkan machine learning, kita dapat membangun sistem prediktif berbasis data medis sederhana untuk membantu diagnosis awal dan pengambilan keputusan klinis secara lebih efisien.
+Diabetes adalah salah satu penyakit kronis yang paling banyak diderita secara global dan dapat menimbulkan komplikasi serius seperti gagal ginjal, kebutaan, dan penyakit jantung. Menurut World Health Organization (2023), jumlah penderita diabetes meningkat secara signifikan setiap tahunnya dan diperkirakan menjadi penyebab kematian ke-7 di dunia pada tahun 2030. Selain itu, laporan dari Centers for Disease Control and Prevention (2022) menyebutkan bahwa 1 dari 3 orang dewasa di Amerika Serikat mengalami prediabetes, dan sebagian besar tidak menyadarinya. Dalam konteks ini, deteksi dini menjadi sangat krusial. Dengan memanfaatkan machine learning, kita dapat membangun sistem prediktif berbasis data medis sederhana untuk membantu diagnosis awal dan pengambilan keputusan klinis secara lebih efisien.
 
 Referensi tambahan:
-- [World Health Organization - Diabetes](https://www.who.int/news-room/fact-sheets/detail/diabetes)
-- [Centers for Disease Control and Prevention - Prediabetes](https://www.cdc.gov/diabetes/library/features/truth-about-prediabetes.html)
-- [American Diabetes Association - Statistics About Diabetes](https://diabetes.org/about-diabetes/statistics/about-diabetes)
+1. World Health Organization. (2023). Diabetes. https://www.who.int/news-room/fact-sheets/detail/diabetes
+2. Centers for Disease Control and Prevention. (2022). Prediabetes - Your Chance to Prevent Type 2 Diabetes. https://www.cdc.gov/diabetes/basics/prediabetes.html
+3. American Diabetes Association. (2023). Statistics About Diabetes. https://diabetes.org/about-diabetes/statistics
+
 
 ## Business Understanding
 

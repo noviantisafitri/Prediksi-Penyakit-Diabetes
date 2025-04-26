@@ -2,13 +2,18 @@
 
 ## Domain Proyek
 
-Diabetes adalah salah satu penyakit kronis yang paling banyak diderita secara global dan dapat menimbulkan komplikasi serius seperti gagal ginjal, kebutaan, dan penyakit jantung. Menurut World Health Organization (2023), jumlah penderita diabetes meningkat secara signifikan setiap tahunnya dan diperkirakan menjadi penyebab kematian ke-7 di dunia pada tahun 2030. Selain itu, laporan dari Centers for Disease Control and Prevention (2022) menyebutkan bahwa 1 dari 3 orang dewasa di Amerika Serikat mengalami prediabetes, dan sebagian besar tidak menyadarinya. Dalam konteks ini, deteksi dini menjadi sangat krusial. Dengan memanfaatkan machine learning, kita dapat membangun sistem prediktif berbasis data medis sederhana untuk membantu diagnosis awal dan pengambilan keputusan klinis secara lebih efisien.
+Diabetes merupakan salah satu penyakit kronis yang mengalami peningkatan signifikan dari tahun ke tahun. Menurut World Health Organization (2024), jumlah penderita diabetes meningkat dari 200 juta pada tahun 1990 menjadi 830 juta pada tahun 2022, dengan prevalensi yang meningkat lebih cepat di negara-negara berpenghasilan rendah dan menengah dibandingkan negara-negara berpenghasilan tinggi. Diabetes tidak hanya berdampak pada kualitas hidup individu, tetapi juga menyebabkan berbagai komplikasi serius seperti kebutaan, gagal ginjal, serangan jantung, stroke, hingga amputasi anggota tubuh. Pada tahun 2021, diabetes dan penyakit ginjal akibat diabetes menyebabkan lebih dari 2 juta kematian di seluruh dunia, dan sekitar 11% kematian akibat penyakit kardiovaskular disebabkan oleh kadar gula darah yang tinggi (World Health Organization, 2024).
+
+Di Amerika Serikat, diabetes telah menjadi masalah kesehatan yang sangat serius. Pada tahun 2021, terdapat sekitar 38,4 juta orang Amerika yang hidup dengan diabetes, yang mencakup 11,6% dari total populasi, termasuk 2 juta penderita diabetes tipe 1 (American Diabetes Association, 2023). Prevalensi diabetes pada lansia (usia ≥65 tahun) sangat tinggi, yakni sebesar 29,2%. Tidak hanya itu, sebanyak 97,6 juta orang dewasa Amerika diketahui mengalami prediabetes, suatu kondisi yang meningkatkan risiko terkena diabetes tipe 2 dan berbagai komplikasi kesehatan lainnya (Centers for Disease Control and Prevention, 2024). Prediabetes sendiri dapat dikendalikan dengan perubahan gaya hidup, yang terbukti dapat mengurangi risiko berkembangnya diabetes tipe 2 hingga setengahnya.
+
+Masalah lain yang menonjol adalah masih rendahnya tingkat pengobatan diabetes, khususnya di negara-negara berpenghasilan rendah dan menengah, di mana lebih dari setengah penderita tidak menjalani pengobatan yang semestinya (World Health Organization, 2024). Selain beban kesehatan, diabetes juga menimbulkan beban ekonomi yang besar. Di Amerika Serikat, total biaya yang dihabiskan untuk diabetes pada tahun 2022 mencapai $412,9 miliar, terdiri dari $306,6 miliar untuk biaya medis langsung dan $106,3 miliar untuk biaya tidak langsung (American Diabetes Association, 2023).
+
+Melihat tingginya prevalensi dan dampak luas dari diabetes, baik dari segi kesehatan maupun ekonomi, maka dibutuhkan upaya preventif dan deteksi dini melalui pendekatan teknologi, seperti penerapan machine learning untuk prediksi penyakit diabetes. Dengan memanfaatkan data kesehatan dan algoritma pembelajaran mesin, prediksi dini terhadap risiko diabetes dapat membantu tenaga medis dan masyarakat dalam mengambil langkah intervensi lebih awal untuk mencegah komplikasi yang lebih serius di masa depan.
 
 Referensi tambahan:
-1. World Health Organization. (2023). Diabetes. https://www.who.int/news-room/fact-sheets/detail/diabetes
-2. Centers for Disease Control and Prevention. (2022). Prediabetes - Your Chance to Prevent Type 2 Diabetes. https://www.cdc.gov/diabetes/basics/prediabetes.html
-3. American Diabetes Association. (2023). Statistics About Diabetes. https://diabetes.org/about-diabetes/statistics
-
+1. World Health Organization. (2024). Diabetes. Retrieved from https://www.who.int/news-room/fact-sheets/detail/diabetes
+2. Centers for Disease Control and Prevention. (2024). Prediabetes - Your Chance to Prevent Type 2 Diabetes. Retrieved from https://www.cdc.gov/diabetes/prevention-type-2/prediabetes-prevent-type-2.html
+3. American Diabetes Association. (2023). Statistics About Diabetes. Retrieved from https://diabetes.org/about-diabetes/statistics/about-diabetes
 
 ## Business Understanding
 

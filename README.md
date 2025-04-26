@@ -58,12 +58,12 @@ Tahapan preprocessing:
 
 ## Modeling
 
-Model utama yang digunakan adalah **Random Forest Classifier** karena kemampuannya menangani data tidak linier dan memberikan interpretasi terhadap fitur penting. Proses tuning parameter dilakukan dengan **GridSearchCV** pada kombinasi parameter:
+Model utama yang digunakan adalah **Random Forest Classifier** karena kemampuannya menangani data tidak linier, tahan terhadap overfitting (terutama dengan cukup banyak data dan tuning parameter yang tepat), serta mampu memberikan interpretasi terhadap pentingnya fitur. Proses tuning parameter dilakukan dengan GridSearchCV pada kombinasi parameter berikut:
 - n_estimators: [100, 150]
 - max_depth: [10, 15]
 - min_samples_leaf: [3, 5]
 
-Setelah proses training, model dengan parameter terbaik dipilih dan digunakan untuk evaluasi.
+Setelah proses pelatihan, model dengan parameter terbaik dipilih dan digunakan untuk evaluasi. Random Forest Classifier dipilih sebagai model utama karena memiliki beberapa kelebihan, di antaranya mampu menangani data berdimensi tinggi serta fitur yang saling berinteraksi secara kompleks. Selain itu, model ini juga memberikan estimasi feature importance yang berguna untuk interpretasi dan memiliki performa yang stabil dan akurat, bahkan saat diterapkan pada data yang tidak terdistribusi secara linier. Meskipun demikian, Random Forest juga memiliki beberapa kekurangan, seperti sifatnya yang black box, sehingga interpretasi terhadap keputusan prediksi individu menjadi lebih sulit dibandingkan dengan model linier atau pohon keputusan tunggal. Selain itu, model juga rentan terhadap overfitting apabila tuning parameter tidak dilakukan secara tepat, khususnya pada dataset yang berukuran kecil.
 
 ## Evaluation
 

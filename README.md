@@ -27,7 +27,7 @@ Referensi tambahan:
 
 ## Data Understanding
 
-Dataset yang digunakan adalah Pima Indian Diabetes Dataset yang tersedia di [GitHub](https://github.com/noviantisafitri/Prediksi-Penyakit-Diabetes/blob/main/diabetes.csv). Dataset terdiri dari 768 entri dan 9 kolom fitur medis.
+Dataset yang digunakan adalah Pima Indian Diabetes Dataset yang tersedia di [Kaggle](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset). Dataset terdiri dari 768 entri dan 9 kolom fitur medis.
 
 ### Variabel dalam dataset:
 - Pregnancies: Jumlah kehamilan
